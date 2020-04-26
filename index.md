@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: MAGICAL workflows
 ---
 
 ## Customization Guide
@@ -18,25 +18,25 @@ title: Bootstrap 4 Github Pages
     <span class="badge badge-primary badge-pill">1</span>
   </li>
 </ul>
-### Modify the configuration
+### MAGICAL workflows - NGS streams
 <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">NGS stream 1</div>
   <div class="card-body">
-    <h4 class="card-title">Primary card title</h4>
+    <h4 class="card-title">WGS</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
 <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">NGS stream 2</div>
   <div class="card-body">
-    <h4 class="card-title">Secondary card title</h4>
+    <h4 class="card-title">Shotgun Metagenomics</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
 <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">NGS stream 3</div>
   <div class="card-body">
-    <h4 class="card-title">Success card title</h4>
+    <h4 class="card-title">Targeted Metagenomics</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
